@@ -2854,5 +2854,10 @@ body.is-menu-visible #menu {
     border-radius:50%;
   }
 
+ ul.actions li{
+  display:block;
+  text-align:center;
+   
+ }
 
  
