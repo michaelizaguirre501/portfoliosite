@@ -960,7 +960,7 @@ ul.actions {
   margin-left: -1rem;
   padding-left: 0; }
   ul.actions li {
-    padding: 0 0 0 1rem;
+    padding: 0 0 0 1.5rem ;
     vertical-align: middle; }
   ul.actions.special {
     -moz-justify-content: center;
@@ -2355,7 +2355,7 @@ ul.icons {
     display: -ms-flex;
     display: flex; }
     #footer .content section {
-      width: 25%; }
+      width: 50%; }
       #footer .content section:first-child {
         width: 50%;
         padding-right: 4rem; }
@@ -2825,3 +2825,34 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+
+
+  ul.actions{
+    display:block;
+    width:100%;
+    padding-right:0;
+  }
+
+  div.content a img{
+    margin: 1.6rem 0 ;
+  }
+
+  section#cta p{
+    font-size:1.5rem;
+  }
+
+  .works {
+    display:inline-block;
+    text-align:center;
+    width: 100%;
+    margin:0 auto;
+    padding-top:5rem;
+  }
+
+  footer img{
+    border-radius:50%;
+  }
+
+
+ 
