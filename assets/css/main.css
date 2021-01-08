@@ -16,6 +16,17 @@ body {
     min-width: 320px; } }
 html {
   box-sizing: border-box; }
+section#banner div.inner p{
+  width:80%;
+  margin:1rem auto 0 auto}
+  h1{
+    width:50%;
+    display: inline-block;
+    margin: 0 auto;
+  }
+  section#banner a.button{
+    margin-top:1.8rem;
+  }
 
 *, *:before, *:after {
   box-sizing: inherit; }
