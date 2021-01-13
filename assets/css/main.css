@@ -6,6 +6,10 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 /* Basic */
+html{
+  font-size:85% !important;
+}
+ 
 @-ms-viewport {
   width: device-width; }
 body {
@@ -2872,3 +2876,4 @@ body.is-menu-visible #menu {
  }
 
  
+
